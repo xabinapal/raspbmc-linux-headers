@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Stop graphical interface (reduces CPU load and saves RAM)
 initctl stop xbmc
 
